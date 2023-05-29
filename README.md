@@ -3,4 +3,4 @@ Discrepancy Scaling is a fast method for unsupervised anomaly detection and loca
 Anomaly Localization".
 
 ## The state of this repository
-We are currently refactoring our research code for better legibility and usability. A working implementation of Discrepancy Scaling should be available on this repo by late May 2023. Stay tuned!
+We are currently refactoring our research code for better legibility and usability. A working implementation of Discrepancy Scaling should be available on this repo by early June 2023. Stay tuned!
